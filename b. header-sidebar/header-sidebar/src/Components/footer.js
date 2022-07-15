@@ -20,7 +20,7 @@ const Footer = () => {
 					<a href="#">Contact</a>
 				</p>
 
-				<p>Company Name &copy; 2015</p>
+				<p>Starbust &copy; 2022</p>
 			</div>
 
 		</footer>
