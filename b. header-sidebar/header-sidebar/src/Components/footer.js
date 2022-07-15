@@ -4,10 +4,10 @@ const Footer = () => {
   return (
     <footer className ="footer-distributed">
         
-			<div class="footer-left">
+			<div className="footer-left">
 
-				<p class="footer-links">
-					<a class="link-1" href="#">Home</a>
+				<p className="footer-links">
+					<a className="link-1" href="#">Home</a>
 
 					<a href="#">Blog</a>
 
